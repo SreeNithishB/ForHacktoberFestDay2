@@ -1,6 +1,12 @@
 #include<stdio.h>
 int sum(int a, int b,int c) {
-	return a + b + c;
+	return (a + b + )c;
+
+}
+
+int diff(int a. int b){
+	return (b - a);
+
 }
 
 int main() {
